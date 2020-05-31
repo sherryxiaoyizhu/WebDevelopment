@@ -6,4 +6,4 @@ Building a webpage with Bootstrap 4: Flexbox and Layout using HTML and CSS.
 
 Meet Copper the Golden Retriever & Penny the Scottish Straight!
 
-Referencing to Museum of Candy project derived by Colt Steele.
+Referencing to Museum of Candy project from The Web Developer Bootcamp by Colt Steele.
